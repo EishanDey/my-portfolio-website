@@ -167,7 +167,8 @@
   <main>
     <section id="about">
       <h2>About Me</h2>
-      <p>Hello! I'm a passionate student with a strong interest in astrophysics and space exploration. I aim to pursue a career in scientific research to explore the mysteries of the universe.</p>
+      <p>Hello!! I'm Eishan Dey.
+I’m a curious mind with a deep fascination for how the universe works — especially through the lens of physics. As a high school student with an insatiable appetite for discovery, I thrive on exploring complex concepts, solving challenging problems, and asking “why” until I find the answer. Whether it's experimenting in class, reading about quantum mechanics, or building things that move and work, I’m always chasing the next opportunity to learn and grow. I’m eager to contribute my enthusiasm, discipline, and fresh perspective to exciting new challenges.</p>
     </section>
 
     <section id="awards">
