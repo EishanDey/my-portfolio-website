@@ -4,6 +4,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Your Name - Portfolio</title>
   <style>
+     h1:first-child {
+      display: none;
+    }
     :root {
       --bg: #f4f4f9;
       --text: #333;
