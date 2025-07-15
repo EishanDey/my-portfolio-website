@@ -168,7 +168,7 @@
     <section id="about">
       <h2>About Me</h2>
       <p>Hello!! I'm Eishan Dey.
-I’m a curious mind with a deep fascination for how the universe works — especially through the lens of physics. As a high school student with an insatiable appetite for discovery, I thrive on exploring complex concepts, solving challenging problems, and asking “why” until I find the answer. Whether it's experimenting in class, reading about quantum mechanics, or building things that move and work, I’m always chasing the next opportunity to learn and grow. I’m eager to contribute my enthusiasm, discipline, and fresh perspective to exciting new challenges.</p>
+I'm a high school student fueled by curiosity and driven by discipline — whether I'm diving into the mysteries of the universe through physics or giving my all on the football field. My passion for science is matched by my commitment to athletics, where I’ve learned the value of teamwork, perseverance, and strategic thinking. I thrive on challenges, love solving problems, and bring energy and focus to everything I take on. I'm always looking for new opportunities to grow, explore, and make an impact — both in the lab and on the field.</p>
     </section>
 
     <section id="awards">
