@@ -160,7 +160,7 @@
 
   <header>
     <h1>Eishan Dey's Portfolio</h1>
-    <p>Aspiring Astrophysicist | Student | Athlete | Future Scientist</p>
+    <p>Aspiring Nuclear and Data scientist | Student | Athlete | Future Scientist</p>
     <button class="toggle-btn" onclick="toggleTheme()">Toggle Theme</button>
   </header>
 
@@ -168,7 +168,7 @@
     <section id="about">
       <h2>About Me</h2>
       <p>Hello!! I'm Eishan Dey.
-I'm a high school student fueled by curiosity and driven by discipline — whether I'm diving into the mysteries of the universe through physics or giving my all on the football field. My passion for science is matched by my commitment to athletics, where I’ve learned the value of teamwork, perseverance, and strategic thinking. I thrive on challenges, love solving problems, and bring energy and focus to everything I take on. I'm always looking for new opportunities to grow, explore, and make an impact — both in the lab and on the field.</p>
+Highly motivated and analytical individual with a fervent passion for advancing nuclear science through cutting-edge data analysis and computational modeling. As a dedicated football athlete, I bring a unique blend of strategic thinking, rigorous discipline, and exceptional teamwork to complex challenges, ready to contribute innovative solutions to the energy sector.</p>
     </section>
 
     <section id="awards">
